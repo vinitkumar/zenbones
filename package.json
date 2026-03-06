@@ -1,0 +1,45 @@
+{
+  "name": "zenbones",
+  "displayName": "Zenbones",
+  "description": "A contrast-based color theme inspired by the Neovim Zenbones theme. Highlights code using contrasts and font variations, not colors.",
+  "version": "0.1.0",
+  "publisher": "vinitkumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinitkumar/zenbones-vscode"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "zenbones",
+    "minimal",
+    "contrast",
+    "light",
+    "dark"
+  ],
+  "galleryBanner": {
+    "color": "#1C1917",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zenbones Light",
+        "uiTheme": "vs",
+        "path": "./themes/zenbones-light-color-theme.json"
+      },
+      {
+        "label": "Zenbones Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zenbones-dark-color-theme.json"
+      }
+    ]
+  }
+}
