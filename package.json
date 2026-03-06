@@ -2,8 +2,8 @@
   "name": "zenbones",
   "displayName": "Zenbones",
   "description": "A contrast-based color theme inspired by the Neovim Zenbones theme. Highlights code using contrasts and font variations, not colors.",
-  "version": "0.1.0",
-  "publisher": "vinitkumar",
+  "version": "1.0.0",
+  "publisher": "vinitkme",
   "license": "MIT",
   "repository": {
     "type": "git",
