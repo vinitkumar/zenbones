@@ -5,7 +5,7 @@ A contrast-based color theme for Visual Studio Code, ported from the popular [Ze
 
 ![dark](./dark.png)
 
-![white](./white.png)
+![light](./light.png)
 
 ## Philosophy
 
