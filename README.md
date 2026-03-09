@@ -2,6 +2,11 @@
 
 A contrast-based color theme for Visual Studio Code, ported from the popular [Zenbones](https://github.com/zenbones-theme/zenbones.nvim) Neovim colorscheme.
 
+
+![dark](./dark.png)
+
+![white](./white.png)
+
 ## Philosophy
 
 Zenbones highlights code using **contrasts and font variations**, not colors. Colors are reserved for other roles: diagnostics, diffs, search matches, and git decorations. This creates a calm, readable editing experience that lets the structure of your code speak through typography.
