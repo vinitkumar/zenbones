@@ -2,12 +2,12 @@
   "name": "zenbones-redux",
   "displayName": "Zenbones Redux",
   "description": "A contrast-based color theme inspired by the Neovim Zenbones theme. Highlights code using contrasts and font variations, not colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "vinitkme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vinitkumar/zenbones-vscode"
+    "url": "https://github.com/vinitkumar/zenbones"
   },
   "engines": {
     "vscode": "^1.60.0"
