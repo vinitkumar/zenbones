@@ -1,4 +1,4 @@
-# Zenbones for Visual Studio Code
+# Zenbones Redux for Visual Studio Code
 
 A contrast-based color theme for Visual Studio Code, ported from the popular [Zenbones](https://github.com/zenbones-theme/zenbones.nvim) Neovim colorscheme.
 
@@ -39,7 +39,7 @@ Six named accent colors are used exclusively for UI roles (never for syntax):
 
 1. Open VSCode
 2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for "Zenbones"
+3. Search for "Zenbones Redux"
 4. Click Install
 5. Select the theme: `Ctrl+K Ctrl+T` / `Cmd+K Cmd+T` and choose **Zenbones Light** or **Zenbones Dark**
 
@@ -58,7 +58,7 @@ Six named accent colors are used exclusively for UI roles (never for syntax):
 ```sh
 npm install -g @vscode/vsce
 vsce package
-code --install-extension zenbones-0.1.0.vsix
+code --install-extension zenbones-redux-1.0.1.vsix
 ```
 
 ## Recommended Settings
